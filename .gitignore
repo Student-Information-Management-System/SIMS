@@ -99,3 +99,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
